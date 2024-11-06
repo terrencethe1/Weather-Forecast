@@ -7,7 +7,7 @@ class Weather {
         this.city = city;
         this.date = date;
         this.icon = icon;
-        this.iconDescription = iconDescription;
+        this.iconDescription= iconDescription;
         this.tempF = tempF;
         this.windSpeed = windSpeed;
         this.humidity = humidity;
